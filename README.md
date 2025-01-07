@@ -19,19 +19,6 @@ Dedicated Full Stack Developer with a proven track record of seamlessly integrat
 ![](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[Final frontend Coursera DPJ4F7HJBBW4.pdf](https://github.com/user-attachments/files/18336069/Final.frontend.Coursera.DPJ4F7HJBBW4.pdf)
-[9:9Coursera CA87AM249KX7.pdf](https://github.com/user-attachments/files/18336068/9.9Coursera.CA87AM249KX7.pdf)
-[8:9Coursera PVW4BHNQSJET.pdf](https://github.com/user-attachments/files/18336066/8.9Coursera.PVW4BHNQSJET.pdf)
-[7:9Coursera PFXDPWTA6F8L.pdf](https://github.com/user-attachments/files/18336065/7.9Coursera.PFXDPWTA6F8L.pdf)
-[6:9 Coursera MP9G7UPV77BF.pdf](https://github.com/user-attachments/files/18336063/6.9.Coursera.MP9G7UPV77BF.pdf)
-[5:9 Coursera VR9FJULW2KMW.pdf](https://github.com/user-attachments/files/18336062/5.9.Coursera.VR9FJULW2KMW.pdf)
-[4:9 Coursera VX3FMDCA38WC.pdf](https://github.com/user-attachments/files/18336061/4.9.Coursera.VX3FMDCA38WC.pdf)
-[3:9 Coursera 6YU85U9G3UY8.pdf](https://github.com/user-attachments/files/18336060/3.9.Coursera.6YU85U9G3UY8.pdf)
-[2:9 Coursera SL48W3JTZPKJ.pdf](https://github.com/user-attachments/files/18336059/2.9.Coursera.SL48W3JTZPKJ.pdf)
-[1:9 Coursera 94Z6P5F6MTD9.pdf](https://github.com/user-attachments/files/18336058/1.9.Coursera.94Z6P5F6MTD9.pdf)
-
-
-
  
  # All globally recognized certifications
 - [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
