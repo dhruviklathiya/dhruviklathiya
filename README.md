@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+# 📊 GitHub Stats (without cheating):
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruviklathiya&theme=dark&hide_border=false)<br/>
 
 ---
