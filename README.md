@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/assets/github-user-contribution.svg)
+
 # 📊 GitHub Stats (without cheating):
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruviklathiya&theme=dark&hide_border=false)<br/>
 
@@ -35,3 +37,5 @@
 - [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+
