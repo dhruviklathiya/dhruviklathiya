@@ -122,27 +122,6 @@
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ)
 
-- [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
-<a href="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png">
-<img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png"
-alt="Dhruvik lathiya certification for What Is Data Science"
-width="300"/>
-</a>
-
-- [Tools For Data Science?](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
-<a href="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png">
-<img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png"
-alt="Dhruvik lathiya certification for Tools For Data Science"
-width="300"/>
-</a>
-
-- [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
-<a href="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png">
-<img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png"
-alt="Dhruvik lathiya certification for Data Science Methodology"
-width="300"/>
-</a>
-
 <table>
   <tr>
     <td>
