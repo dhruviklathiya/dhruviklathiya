@@ -122,4 +122,4 @@
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-
+![image alt] (https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png?raw=true)
