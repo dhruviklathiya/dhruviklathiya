@@ -105,21 +105,48 @@
 ---
  
  # All globally recognized certifications
-- [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-- [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/verify/VX3FMDCA38WC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Principles of UX/UI Design](https://www.coursera.org/account/accomplishments/verify/PFXDPWTA6F8L?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [React Basics](https://www.coursera.org/account/accomplishments/verify/VR9FJULW2KMW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Advanced React](https://www.coursera.org/account/accomplishments/verify/MP9G7UPV77BF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Front-End Developer Capstone](https://www.coursera.org/account/accomplishments/verify/PVW4BHNQSJET?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Version Control](https://www.coursera.org/account/accomplishments/verify/6YU85U9G3UY8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Introduction to Augmented Reality and ARCore](https://www.coursera.org/account/accomplishments/verify/UULTC3LZMSFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [WhatsApp Business Platform for Developers](https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Microsoft 365 Fundamentals](https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
-- [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4)
+- [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ)
+- [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9)
+- [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/verify/VX3FMDCA38WC)
+- [Principles of UX/UI Design](https://www.coursera.org/account/accomplishments/verify/PFXDPWTA6F8L)
+- [React Basics](https://www.coursera.org/account/accomplishments/verify/VR9FJULW2KMW)
+- [Advanced React](https://www.coursera.org/account/accomplishments/verify/MP9G7UPV77BF)
+- [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7)
+- [Front-End Developer Capstone](https://www.coursera.org/account/accomplishments/verify/PVW4BHNQSJET)
+- [Version Control](https://www.coursera.org/account/accomplishments/verify/6YU85U9G3UY8)
+- [Introduction to Augmented Reality and ARCore](https://www.coursera.org/account/accomplishments/verify/UULTC3LZMSFJ)
+- [WhatsApp Business Platform for Developers](https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8)
+- [Microsoft 365 Fundamentals](https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW)
+- [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9)
+- [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF)
+- [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ)
+- [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
+- [Tools For Data Science](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png" alt="Dhruvik lathiya certification for What Is Data Science" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">What Is Data Science?</a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png" alt="Dhruvik lathiya certification for Tools For Data Science" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">Tools For Data Science</a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png" alt="Dhruvik lathiya certification for Data Science Methodology" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">Data Science Methodology</a>
+    </td>
+  </tr>
+</table>
