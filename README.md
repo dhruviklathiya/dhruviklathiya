@@ -127,26 +127,152 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/all9metafrontend.png" alt="Image of Dhruvik Lathiya's Professional Certificate for Meta Front-End Developer." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4">Meta Front-End Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Programming with JavaScript from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ">Programming with JavaScript</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Introduction to Front-End Development from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9">Introduction to Front-End Development</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/VX3FMDCA38WC">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/4of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for HTML and CSS in Depth from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/VX3FMDCA38WC">HTML and CSS in Depth</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/PFXDPWTA6F8L">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/7of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Principles of UX/UI Design from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/PFXDPWTA6F8L">Principles of UX/UI Design</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/VR9FJULW2KMW">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/5of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for React Basics from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/VR9FJULW2KMW">React Basics</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/MP9G7UPV77BF">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/6of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Advanced React from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/MP9G7UPV77BF">Advanced React</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/9of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Coding Interview Preparation from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7">Coding Interview Preparation</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/PVW4BHNQSJET">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/8of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Front-End Developer Capstone from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/PVW4BHNQSJET">Front-End Developer Capstone</a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/6YU85U9G3UY8">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of9metafrontend.png" alt="Image of Dhruvik Lathiya's certificate for Version Control from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/6YU85U9G3UY8">Version Control</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/UULTC3LZMSFJ">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12google.png" alt="Image of Dhruvik Lathiya's certificate for Introduction to Augmented Reality and ARCore from Google." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/UULTC3LZMSFJ">Introduction to Augmented Reality and ARCore</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/whatsappbusinessplatformmeta.png" alt="Image of Dhruvik Lathiya's certificate for WhatsApp Business Platform for Developers from Meta." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8">WhatsApp Business Platform for Developers</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/all3microsoft.png" alt="Image of Dhruvik Lathiya's specialization certificate for Microsoft 365 Fundamentals." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW">Microsoft 365 Fundamentals</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of3microsoft.png" alt="Image of Dhruvik Lathiya's certificate for Work Smarter with Microsoft Excel." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9">Work Smarter with Microsoft Excel</a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of3microsoft.png" alt="Image of Dhruvik Lathiya's certificate for Work Smarter with Microsoft PowerPoint." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF">Work Smarter with Microsoft PowerPoint</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of3microsoft.png" alt="Image of Dhruvik Lathiya's certificate for Work Smarter with Microsoft Word." width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ">Work Smarter with Microsoft Word</a>
+    </td>
+    <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">
-        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png" alt="Dhruvik lathiya certification for What Is Data Science" width="300"/>
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png" alt="Image of Dhruvik Lathiya's certificate for What Is Data Science from IBM." width="300"/>
       </a>
       <br>
       <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">What Is Data Science?</a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">
-        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png" alt="Dhruvik lathiya certification for Tools For Data Science" width="300"/>
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png" alt="Image of Dhruvik Lathiya's certificate for Tools For Data Science from IBM." width="300"/>
       </a>
       <br>
       <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">Tools For Data Science</a>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">
-        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png" alt="Dhruvik lathiya certification for Data Science Methodology" width="300"/>
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png" alt="Image of Dhruvik Lathiya's certificate for Data Science Methodology from IBM." width="300"/>
       </a>
       <br>
       <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">Data Science Methodology</a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
