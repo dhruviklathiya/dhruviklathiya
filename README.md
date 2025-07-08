@@ -122,8 +122,8 @@
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ)
 
-<a href="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png?raw=true">
-<img sec="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png?raw=true"
+<a href="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png">
+<img sec="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png"
 alt="Dhruvik lathiya certification for data science"
 width="300"/>
 </a>
