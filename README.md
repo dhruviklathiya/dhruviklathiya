@@ -122,4 +122,11 @@
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
+- [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
 ![image alt](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png?raw=true)
+
+- [Tools For Data Science?](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
+![image alt](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png?raw=true)
+
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
+![image alt](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png?raw=true)
