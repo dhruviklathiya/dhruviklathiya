@@ -121,6 +121,9 @@
 - [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9)
 - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF)
 - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ)
+- [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
+- [Tools For Data Science](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
 
 <table>
   <tr>
