@@ -142,3 +142,29 @@ width="300"/>
 alt="Dhruvik lathiya certification for Data Science Methodology"
 width="300"/>
 </a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/1of12data-science.png" alt="Dhruvik lathiya certification for What Is Data Science" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA">What Is Data Science?</a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/2of12data-science.png" alt="Dhruvik lathiya certification for Tools For Data Science" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV">Tools For Data Science</a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">
+        <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/3of12data-science.png" alt="Dhruvik lathiya certification for Data Science Methodology" width="300"/>
+      </a>
+      <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">Data Science Methodology</a>
+    </td>
+  </tr>
+</table>
