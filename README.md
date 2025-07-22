@@ -272,7 +272,19 @@
       <br>
       <a href="https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35">Data Science Methodology</a>
     </td>
-    <td></td>
-    <td></td>
+    <td>
+        <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8qJ-0BN1RXh6YMyKk2FklpO3z4cH96N3Q">
+          <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/goldmedalaiautomation.jpg" alt="This certificate is awarded to Dhruvik Lathiya for winning gold medal in the AI & Automation Hackathon 2025." width="300"/>
+        </a>
+      <br>
+      <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8qJ-0BN1RXh6YMyKk2FklpO3z4cH96N3Q">AI & Automation Hackathon</a>
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8qJ-0BN1RXh6YMyKk2FklpO3z4cH96N3Q">
+          <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/normalaiautomation.jpg" alt="This certificate is awarded to Dhruvik Lathiya for participating in the AI & Automation Hackathon 2025." width="300"/>
+        </a>
+      <br>
+      <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8qJ-0BN1RXh6YMyKk2FklpO3z4cH96N3Q">AI & Automation Hackathon</a>
+    </td>
   </tr>
 </table>
