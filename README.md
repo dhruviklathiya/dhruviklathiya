@@ -18,7 +18,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH">
-    <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/goldmedalaiautomation.jpg" width="300"/>
+    <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/goldmedalaiautomation.jpg" width="260"/>
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="LINK_FOR_IMAGE_2">
+    <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/AI-Automation-2025.png" width="260"/>
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="LINK_FOR_IMAGE_3">
+    <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/1688098311876.jpeg" width="260"/>
   </a>
 </p>
 
