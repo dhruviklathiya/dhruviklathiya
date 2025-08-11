@@ -1,3 +1,5 @@
+# AI Automation Expert | AI-ML Expert | AI Researcher | Full Stack Developer
+
 ![Snake animation](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/assets/github-user-contribution.svg)
 
 # 📊 GitHub Stats (without cheating):
