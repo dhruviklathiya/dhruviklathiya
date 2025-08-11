@@ -62,9 +62,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
- 
- # All globally recognized certifications
+<details>
+<summary><strong>🏆 View All 19 Globally Recognized Certifications</strong></summary>
+<br>
+
 - [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4)
 - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ)
 - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9)
@@ -84,6 +85,8 @@
 - [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
 - [Tools For Data Science](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
 - [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
+
+</details>
 
 <table>
   <tr>
