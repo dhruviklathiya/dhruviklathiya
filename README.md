@@ -11,7 +11,8 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Gold Medal** – AI & Automation Hackathon 2025  
+- 🥇 **Gold Medal** – AI & Automation Hackathon 2025
+- 🥇 **Gold Medal** – Tech War - CodeJam 2023
 - 📜 Multiple Global Certifications (Meta, Microsoft, IBM, Google, Coursera)  
 - 💡 Built AI-powered automation workflows & scalable full-stack solutions  
 
