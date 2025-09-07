@@ -18,7 +18,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH">
-    <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/goldmedalaiautomation.jpg" width="300"/>
+    <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/AI-Automation-2025.png" width="300"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7080397546728173568/">
+    <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/1688098311876.jpeg" width="300"/>
   </a>
 </p>
 
@@ -26,10 +30,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/__daily__meme__hub__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/xfullstack/"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:dhruviklathiya9999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dhruviklathiya/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/dhruvik_49/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -58,9 +62,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
- 
- # All globally recognized certifications
+<details>
+<summary><strong>🏆 View All 19 Globally Recognized Certifications</strong></summary>
+<br>
+
 - [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4)
 - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ)
 - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9)
@@ -80,6 +85,8 @@
 - [What Is Data Science?](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA)
 - [Tools For Data Science](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV)
 - [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35)
+
+</details>
 
 <table>
   <tr>
