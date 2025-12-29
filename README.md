@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Dhruvik Lathiya</h1>
-<h3 align="center">AI Automation Expert | AI-ML Expert | AI Researcher | Full Stack Developer</h3>
+<h3 align="center">CEO & Founder of Dmind AI | AI Automation Expert | AI-ML Expert | AI Researcher | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Automation-Expert-ff5733?style=for-the-badge" />
