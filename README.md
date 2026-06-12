@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=200&section=header&text=Dhruvik%20Lathiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CEO%20%26%20Founder%20%40%20Dmind%20AI%20%7C%20AI%20Automation%20Expert&descAlignY=58&descColor=ffffff&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=200&section=header&text=Dhruvik%20Lathiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CEO%20Founder%20at%20Dmind%20AI%20%7C%20AI%20Automation%20Expert&descAlignY=58&descColor=ffffff&descSize=18" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6900&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Expert;Full+Stack+Developer;AI+Researcher+%7C+ML+Engineer;CEO+%26+Founder+of+Dmind+AI;Building+the+Future+with+AI)](https://git.io/typing-svg)
@@ -127,7 +127,7 @@ class DhruvikLathiya:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
+![](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=ff6900)
 
 </div>
