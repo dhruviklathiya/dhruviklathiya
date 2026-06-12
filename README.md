@@ -125,12 +125,9 @@ class DhruvikLathiya:
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-![Trophies](https://github-trophies.vercel.app/?username=dhruviklathiya&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+  <img src="https://github-trophies.vercel.app/?username=dhruviklathiya&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
