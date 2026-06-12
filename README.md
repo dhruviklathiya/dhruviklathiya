@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dhruviklathiya&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/assets/github-user-contribution.svg" alt="snake animation" />
