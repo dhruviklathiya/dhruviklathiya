@@ -11,7 +11,7 @@
 <!-- BADGES -->
 <a href="https://www.linkedin.com/in/dhruviklathiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff6900?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/xfullstack/"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:dhruviklathiya9999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-ff6900?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dhruvik@dmindai.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-ff6900?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/dhruvik_49/"><img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
@@ -118,7 +118,7 @@ class DhruvikLathiya:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruviklathiya&show_icons=true&theme=github_dark&title_color=ff6900&icon_color=ff6900&border_color=ff6900&border_radius=12&hide_border=false" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruviklathiya&theme=github-dark-blue&ring=ff6900&fire=ff6900&currStreakLabel=ff6900&border=ff6900&border_radius=12" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruviklathiya&layout=compact&theme=github_dark&title_color=ff6900&border_color=ff6900&border_radius=12&langs_count=8" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruviklathiya&layout=compact&theme=github_dark&title_color=ff6900&border_color=ff6900&border_radius=12&langs_count=8" /> -->
 
 </div>
 
@@ -127,8 +127,7 @@ class DhruvikLathiya:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhruviklathiya&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=ff6900)
+![Trophies](https://github-trophies.vercel.app/?username=dhruviklathiya&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -150,7 +149,7 @@ class DhruvikLathiya:
 <summary><strong>🏅 View All 19 Globally Recognized Certifications</strong></summary>
 <br/>
 
-### 🔵 Meta — Front-End Developer Professional Certificate
+### 🔵 Meta | Front-End Developer Professional Certificate
 | # | Certificate | Link |
 |---|---|---|
 | ✅ | Meta Front-End Developer (Full Specialization) | [Verify](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4) |
@@ -165,7 +164,7 @@ class DhruvikLathiya:
 | ✅ | Coding Interview Preparation | [Verify](https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7) |
 | ✅ | WhatsApp Business Platform for Developers | [Verify](https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8) |
 
-### 🟢 Microsoft — 365 Fundamentals Specialization
+### 🟢 Microsoft | 365 Fundamentals Specialization
 | # | Certificate | Link |
 |---|---|---|
 | ✅ | Microsoft 365 Fundamentals (Full Specialization) | [Verify](https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW) |
@@ -173,7 +172,7 @@ class DhruvikLathiya:
 | ✅ | Work Smarter with Microsoft Excel | [Verify](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9) |
 | ✅ | Work Smarter with Microsoft PowerPoint | [Verify](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF) |
 
-### 🔴 IBM — Data Science
+### 🔴 IBM | Data Science
 | # | Certificate | Link |
 |---|---|---|
 | ✅ | What Is Data Science? | [Verify](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA) |
@@ -217,7 +216,7 @@ class DhruvikLathiya:
 
 <br/>
 
-**Dhruvik Lathiya** · CEO & Founder @ [Dmind AI](https://www.linkedin.com/in/dhruviklathiya/)
+**Dhruvik Lathiya** · CEO & Founder @ [Dmind AI](https://www.dmindai.com/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=120&section=footer" />
 
